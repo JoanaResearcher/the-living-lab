@@ -1,2 +1,38 @@
-# the-living-lab
-Turning 25 years of lived experience into a bilingual AI-architected validator that dismantles bureaucratic barriers and opens pathways to home stability.
+# The Living Lab: RFTA Validator & Pathway to Home Stability
+**An Expert-Led Instructional Design Intervention for Federal Housing Equity**
+
+---
+
+## 🏠 Project Mission
+For decades, I watched families lose precious time and resources to housing paperwork buried deep in policy—a administrative drain that claimed up to 30% of their effort before they ever had a chance at stability. 
+
+**The Living Lab** transforms 25 years of lived experience navigating federal housing programs into a digital tool that empowers rather than intimidates. By translating the dense “RFTA” (Request for Tenancy Approval) 6‑point hard‑stop logic into a real‑time validation system, we provide applicants with instant, actionable feedback to avoid costly delays.
+
+---
+
+## 🛠️ The Building Process: AI as an Architectural Partner
+This project leverages Generative AI not just for code, but as a technical bridge between gatekept administrative requirements and a user‑focused, bilingual environment. 
+
+By entrusting AI with the technical heavy lifting—from building the underlying framework to automating the intricate 15‑day review tracker—I was able to embed decades of frontline ethnographic insight directly into the system’s logic. This allowed a focus on the human side of design: transforming lived experiences, community frustrations, and hard‑earned knowledge into a solution that dismantles bureaucratic barriers.
+
+---
+
+## ✨ Key Features
+* **Bilingual Validation:** English and Heritage Spanish support to ensure linguistic equity.
+* **6-Point Hard-Stop Logic:** Real-time diagnostics for the most common administrative failures.
+* **15-Day Review Tracker:** Dynamic calculation of the federal review window to reduce "Bandwidth Tax."
+* **Direct Agency Links:** Instant access to partners like the *Central Virginia Resource Corporation* and *Resources for Independent Living, Inc.*
+
+---
+
+## 🎓 Academic Context
+This project is part of the **Old Dominion University Knowledge & Creativity Expo (April 22, 2026)**. 
+**Researcher:** Joana Camp  
+**Program:** Occupational and Technical Studies, ODU  
+**Focus:** Instructional Design, Technical Writing, and Psychological Impact of Federal Policy.
+
+---
+
+## 📄 License & Contact
+This project is open-source under the MIT License.
+**Contact:** [jcamp084@odu.edu](mailto:jcamp084@odu.edu)
