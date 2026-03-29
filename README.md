@@ -4,7 +4,7 @@
 ---
 
 ## 🏠 Project Mission
-For decades, I watched families lose precious time and resources to housing paperwork buried deep in policy—a administrative drain that claimed up to 30% of their effort before they ever had a chance at stability. 
+For decades, I watched families lose precious time and resources to housing paperwork buried deep in policy—an administrative drain that claimed up to 30% of their effort before they ever had a chance at stability. 
 
 **The Living Lab** transforms 25 years of lived experience navigating federal housing programs into a digital tool that empowers rather than intimidates. By translating the dense “RFTA” (Request for Tenancy Approval) 6‑point hard‑stop logic into a real‑time validation system, we provide applicants with instant, actionable feedback to avoid costly delays.
 
