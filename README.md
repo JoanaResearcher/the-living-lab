@@ -1,4 +1,6 @@
 # The Living Lab: RFTA Validator
+![The Living Lab Header](the-living-lab.png)
+
 **Lead Technical Researcher: Joana Camp** *Senior, Old Dominion University | B.S. Occupational and Technical Studies*
 
 ## Professional Profile
